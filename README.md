@@ -42,7 +42,7 @@ To set up Travelo on your local machine for development or testing purposes, fol
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/travelo.git
+   git clone https://github.com/Mangesh2704/Travelo-A-Travel-Agency-Website.git
    ```
 
 2. Navigate to the project directory:

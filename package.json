@@ -1,0 +1,24 @@
+{
+  "name": "travelo-a-travel-agency-website",
+  "version": "1.0.0",
+  "description": "![Travelo Logo](./assets/images/travelo-logo.svg)",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangesh2704/Travelo-A-Travel-Agency-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangesh2704/Travelo-A-Travel-Agency-Website/issues"
+  },
+  "homepage": "https://github.com/Mangesh2704/Travelo-A-Travel-Agency-Website#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

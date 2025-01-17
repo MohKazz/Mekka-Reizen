@@ -397,7 +397,7 @@ body {
 /* HERO */
 
 .hero {
-    background-image: url("../images/hero-banner.jpg");
+    background-image: url("../images/banner.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
